@@ -1,6 +1,6 @@
 # MCP WebSearch Server
 
-[![CI](https://img.shields.io/github/actions/workflow/status/sagelabs-dev/mcp-websearch/ci.yml?branch=main&label=CI&logo=github)](https://github.com/sagelabs-dev/mcp-websearch/actions)
+[![CI](https://img.shields.io/github/actions/workflow/status/retiform-labs/mcp-websearch/ci.yml?branch=main&label=CI&logo=github)](https://github.com/retiform-labs/mcp-websearch/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/rust-1.85+-orange.svg?logo=rust)](https://www.rust-lang.org)
 
@@ -25,7 +25,7 @@ cargo install mcp-websearch
 ### From Source
 
 ```bash
-git clone https://github.com/sagelabs-dev/mcp-websearch.git
+git clone https://github.com/retiform-labs/mcp-websearch.git
 cd mcp-websearch
 cargo build --release
 ```
@@ -238,4 +238,4 @@ If mcp-websearch is useful to you, consider supporting its continued development
 
 ---
 
-Crafted with ❤️ by [Sage Labs](https://sagelabs.dev)
+Crafted with ❤️ by [Retiform Labs](https://retiform.dev)
